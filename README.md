@@ -2,11 +2,9 @@
 
 **VeriGraph AI** is a comprehensive propaganda detection and claim verification system that analyzes how misinformation spreads across multiple sources (Facebook, News RSS, GDELT, Telegram, CommonCrawl) with real-time metrics, virality analysis, and visual propagation tracking.
 
-  
-**Version**: 1.0.0  
-**Last Updated**: March 28, 2026
 
----
+
+
 
 ## 🎯 Quick Navigation
 
